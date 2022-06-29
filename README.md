@@ -1,16 +1,8 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+U+L+A+I+M+A+N++L" />
-</p>
-<p align='center'><a href="https://api.daily.dev/get?r=farukbrowser"><img src="https://raw.githubusercontent.com/farukbrowser/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
-
-![farukbrowser's card name](https://cardivo.vercel.app/api?name=SULAIMAN%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/farukbrowser/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=farukbrowser&pattern=leaf&colorPattern=%23eaeaea)
-
-
 <h2 align="center">
 Auto Script Install All VPN Service
-Created By 24clanSSH.Com
+Mod By Faruk Browser
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
-
+<p align="center">
 </p> 
 <h2 align="center"> Supported Linux Distribution</h2>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
@@ -20,40 +12,40 @@ Created By 24clanSSH.Com
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_Over_Websocket-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN_Over_Websocket-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Over_DNS-success.svg">  <img src="https://img.shields.io/badge/Service-SSLH-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel5-success.svg">  <img src= "https://img.shields.io/badge/Service-OHP_Open_Http_Puncher-success.svg">  <img src= "https://img.shields.io/badge/Service-SSTP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-L2TP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-PPTP_VPN-success.svg">
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-SlowDns-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-XRAY-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_Websocket_TLS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_gRPC_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg">  <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
 
-### Link Grup FB: 
-https://www.facebook.com/groups/1880372362109422/?ref=share
+### Telegram Link: 
+https://t.me/farukbrowser
 ### Info:
-* HARAP DI BACA & UTAMAKAN MEMBACA
-# INI SCRIPT KHUSUS UNTUK MEMBUAT SERVER VPN
-Buat VPS Fresh atau VPS Baru dan Wajib Menggunakan User: root
-* VPS AKUN ROOT
-* Login VPS User menggunakan user root
-* Cara langsung masuk ke akses root
+* PLEASE READ & IMPORTANT READING
+# THIS IS A SPECIAL SCRIPT TO CREATE A VPN SERVER
+Create a Fresh VPS or New VPS and Must Use User: root
+* VPS ACCOUNT ROOT
+* Login VPS User using root user
+* How to directly enter root access
 
 ```html
 sudo su
 ```
-Atau
+Or
 ```html
 sudo -i
 ```
-atau
+or
 ```html
 su
 ```
 
-### Link Video Tutorial Cara Install
+### Tutorial On How To Install Reach me on telegram
 ```html
-https://www.facebook.com/100031931503057/posts/628374871570224/?app=fbl
+https://t.me/farukbrowser
 ```
 
-## INFO TAMBAHAN , SILAHKAN DI BACA 
-* MINIMAL RAM 1 GB UNTUK MENGGUNAKAN SCRIPT INI
-* SILAHKAN HAPUS PROXY SQUID JIKA VPS TERASA BERAT
+## ADDITIONAL INFO, PLEASE READ
+* MINIMUM 1GB RAM TO USE THIS SCRIPT
+* PLEASE REMOVE PROXY SQUID IF VPS FEEL HEAVY
 
-# Khusus Untuk OS
+# Only For OS
 * • Debian 10 & 9
-atau
+or
 * • Ubuntu 18.04 & 20.04
 * Working For VPS AWS,AZURE,DO
 ## Installation 
@@ -67,7 +59,7 @@ apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 ## 2.0
 <img src="https://img.shields.io/badge/Login_Root%20VPS-green">
 
-* Login ke VPS dan Aktifkan Root Sementara
+* Login to VPS and Enable Temporary Root
 
   
 ```html
@@ -78,62 +70,62 @@ cd
 
 ## 2.
 
-  <img src="https://img.shields.io/badge/Buat_Akses_Root%20VPS-green">
+  <img src="https://img.shields.io/badge/Create_VPS_Root_Access-green">
 
-* Buat Akses Root Di VPS /Root VPS
-* Untuk Mengizinkan Root Dan Ubah Password Login di VPS Google Cloud Platform, Aws, Dan Lain-lain
+* Create Root Access On VPS / Root VPS
+* To Allow Root And Change Password Login on VPS Google Cloud Platform, Aws, And More
    
 ```html
-  wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/farukbrowser/Mantap/main/vpsroot.sh && bash vpsroot.sh
+  wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/Farukbrowser/Faruk/main/vpsroot.sh && bash vpsroot.sh
   
 ```
   
 ### 3.
 
-  <img src="https://img.shields.io/badge/Install_Semua_Layanan_VPN%20-green">
+  <img src="https://img.shields.io/badge/Install_All_VPN_Services%20-green">
 
-* Install Semua Layanan VPN /Install All VPN Service
+* Install All VPN Service /Install All VPN Service
    
 ```html
-rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-get update -y && apt-get upgrade && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/farukbrowser/Mantap/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-get update -y && apt-get upgrade && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/Farukbrowser/Faruk/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
   
 ```
   
 
-### 4. DONE / SELESAI
-<img src="https://img.shields.io/badge/DONE%20_/_%20SELESAI-green">
+### 4. DONE 
+<img src="https://img.shields.io/badge/DONE%20-green">
 
-* • jika tidak bisa login di vps ,gunakan port ssh
+* • if you can't login on vps, use the ssh port
 * • 22, 2253
 
-### Jangan Lupa Traktir Kopi
-<a href="https://trakteer.id/sulaiman-l/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
-https://trakteer.id/sulaiman-l/tip
+### Don't Forget to Follow Our Site
+<a href="https://t.me/farukbrowser" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="24clanTech"></a>
+https://24clan.com
 
 ### 5. MENU, INFO ,UPDATE ,FIX
-* untuk menampilkan menu
+* to display the menu
 ```html
 menu
 ```
-* untuk update menu dan update info
+* to update the menu and update info
 ```html
 updatemenu
 ```
-* otomatis untuk memperbaiki error SSLH, WS-TLS
+* automatically to fix SSLH, WS-TLS errors
 ```html
 sl-fix
 ```
 ```html
 reboot
 ```
-* Perbaiki SSL ERROR
-* otomatis untuk memperbaiki error Sertifikat SSL/TLS dan SUBDOMAIN
-* perbaiki error di bagian acme domain
-* untuk update Sertifikat SSL/TLS
+* Fix SSL ERROR
+* automatically to fix SSL/TLS and SUBDOMAIN Certificate errors
+* fix the error in the acme domain
+* to update SSL/TLS Certificate
 ```html
 slhost && certv2ray
 ```
-* lalu restart
+* then restart
 ```html
 restart
 ```
@@ -143,31 +135,31 @@ restart
 
 ### 6. FIX ERROR SSLH WS
 # Auto Fix Error SSLH + WS-TLS 443
-* 1 • Jika terjadi error di SSLH dan SSH WS-TLS nya,gunakan script ini untuk memperbaiki nya
+* 1 • If an error occurs in SSLH and SSH WS-TLS, use this script to fix it
 ```html
 menu
  ```
 
-* 2 • di menu lalu pilih 17 (SL-FIX Menu)
+* 2 • in the menu then select 17 (SL-FIX Menu)
 ```html
 17
  ```
 
-* 3 • jika sudah selesai lalu reboot/ hidupkan ulang vps nya
+* 3 • if it's finished then reboot / restart the vps
 ```html
 reboot
  ```
 
 ### 7. Info Websocket
-* Websocket harus menggunakan subdomain/domain dan sudah di pointing di cloudflare (CDN CLOUDFLARE)
-* Tanpa subdomain/domain mustahil bisa terhubung dengan bug yang berasal dari cloudflare
+* Websocket must use a subdomain / domain and have been pointed at cloudflare (CDN CLOUDFLARE)
+* Without subdomain/domain it is impossible to connect with bugs originating from cloudflare
 *
 *
 *
 
-### 8. Edit Port SSL WS atau Ganti Port SSL(Manual)
-* ubah port yg mau di ubah ,jika 443 silahkan ubah tulisan yang ada 443
-* setelah di edit lalu di simpan (CTRL+X+Y dan enter)
+### 8. Edit WS SSL Port or Change SSL Port (Manual)
+* change the port you want to change, if it's 443 please change the text that is 443
+* after editing then save (CTRL + X + Y and enter)
 
 ```html
 nano /etc/systemd/system/ws-tls.service
@@ -184,25 +176,25 @@ nano /etc/stunnel5/stunnel5.conf
 
 ### 100 (Fix manual) Fix Error SSLH
 
-* Perbaiki sslh yang error di vps yang tidak support sslh
-* khusus yang vps nya tidak support sslh
-* matikan ws-tls
+* Fix sslh errors on vps that don't support sslh
+* specially the vps doesn't support sslh
+* turn off ws-tls
 ```html
 systemctl stop ws-tls
 ```
-* buat user sslh / edit passwd
+* create sslh user / edit passwd
 ```html
 echo sslh:x:109:114::/nonexistent:/usr/sbin/nologin >> /etc/passwd
 ```
-* note: edit passwd dan pindah sslh nya di atas vnstat
+* note: edit passwd and move the password above vnstat
 
-* start sslh dan jalankan
+* start sslh and run
 ```html
 systemctl start sslh
 /etc/init.d/sslh start
 /etc/init.d/sslh restart
 ```
-* lalu start ws-tls
+* then start ws-tls
 ```html
 systemctl start ws-tls
 ```
@@ -213,16 +205,16 @@ reboot
 
 
 
-# INFO Khusus SlowDNS
+# SlowDNS Special Info
 • SSH Over DNS (SlowDNS)
-* untuk kecepatan nya di batasi
+* for its speed is limited
 * speed download 3 Mbps (Max Speed)
 * speed upload 100+ Mbps (Max Speed)
-* Support semua port ssh
+* Support all port ssh
 
-### Fitur Script
+### Script Features
 
-• CEK SEMUA IP DAN PORT (Service ALL VPN)
+• CHECK ALL IP AND PORT (Service ALL VPN)
 
 • SSH & OpenVPN
 
@@ -349,7 +341,7 @@ reboot
 
  ### Server Information & Other Features
 
-• Timezone                : Africa/Nigeria (GMT +7)
+• Timezone                : Asia/Jakarta (GMT +7)
 
 • Fail2Ban                : [ON]
 
@@ -379,14 +371,12 @@ reboot
 
 • Auto Update
 
-<p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=farukbrowser">
-</p>
+
 <div height='45' align="center">
 <h2>Contact me: <br>
 <a href="https://github.com/farukbrowser"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
 <a href="https://facebook.com/farukbrowser"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-<a href="https://trakteer.id/sulaiman-l/tip"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+<a href="https://trakteer.id/farukbrowser/tip"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 </h2>
 </div>
 <h2 align="center">
