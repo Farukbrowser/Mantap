@@ -76,7 +76,7 @@ cd
 * To Allow Root And Change Password Login on VPS Google Cloud Platform, Aws, And More
    
 ```html
-  wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/Farukbrowser/Faruk/main/vpsroot.sh && bash vpsroot.sh
+  wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/Farukbrowser/Mantap/main/vpsroot.sh && bash vpsroot.sh
   
 ```
   
