@@ -14,15 +14,14 @@ install-sldns
 ```
 
 # INFO
-* INI SCRIPT BERSIFAT GRATIS DAN INI SCRIPT DI LARANG DI JUAL PERBELIKAN
-* Ini Script bisa di Mod/Modifikasi/edit dengan bebas
+* THIS SCRIPT IS FREE AND THIS SCRIPT IS PROHIBITED TO SELL BUYING
 
-# INFO Khusus SlowDNS
+# SlowDNS Special Info
 • SSH Over DNS (SlowDNS)
-* untuk kecepatan nya di batasi
+* for its speed is limited
 * speed download 3 Mbps (Max Speed)
 * speed upload 100+ Mbps (Max Speed)
-* Support semua port ssh
+* Support all port ssh
 
 # SSH Only (Support All SSH Ports)
 * Service Port DNS
@@ -36,7 +35,7 @@ install-sldns
 * DoH 99 [OFFLINE]
 * SSH ALL PORT
 
-# Support DNS Protokol
+# Support DNS Protocol
 * UDP DNS
 * DNS-over-TLS (DoT) (OFFLINE)
 * DNS-over-HTTPS (DoH) (OFFLINE)
