@@ -103,7 +103,7 @@ sudo lsof -t -i tcp:80 -s tcp:listen | sudo xargs kill
 #bash acme.sh --install
 #rm acme.sh
 #cd .acme.sh
-#bash acme.sh --register-account -m slinfinity69@gmail.com
+#bash acme.sh --register-account -m farukbrowser0@gmail.com
 #bash acme.sh --issue --standalone -d $domain --force
 #bash acme.sh --installcert -d $domain --fullchainpath /etc/shadowsocks/xray.crt --keypath /etc/shadowsocks/xray.key
 
