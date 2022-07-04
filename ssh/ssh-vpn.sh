@@ -129,7 +129,7 @@ apt install libssl1.0-dev -y
 apt install dos2unix -y
 
 # set time GMT +7
-ln -fs /usr/share/zoneinfo/Africa/Nigeria /etc/localtime
+ln -fs /usr/share/zoneinfo/Asia/Jakarta /etc/localtime
 
 # set locale
 sed -i 's/AcceptEnv/#AcceptEnv/g' /etc/ssh/sshd_config
