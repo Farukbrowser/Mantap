@@ -23,8 +23,8 @@ subsl=$(</dev/urandom tr -dc a-x0-9 | head -c5)
 DOMAIN=24clanssh.com
 SUB_DOMAIN=server-${sub}.24clanssh.com
 NS_DOMAIN=slowdns-${subsl}.24clanssh.com
-CF_ID=slinfinity69@gmail.com
-CF_KEY=3dcb550a77cb0a64dacf205243e3ac550f9db
+CF_ID=farukbrowser0@gmail.com
+CF_KEY=95b295f79baa8c7a3c264ca5cc31b75131c6d
 echo "IP=""$SUB_DOMAIN" >> /var/lib/crot/ipvps.conf
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);
