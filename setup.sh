@@ -100,7 +100,7 @@ rm -f /root/install-ss-plugin.sh
 cat <<EOF> /etc/systemd/system/autosett.service
 [Unit]
 Description=autosetting
-Documentation=24clanssh.com
+Documentation=nekopoi.care
 
 [Service]
 Type=oneshot
