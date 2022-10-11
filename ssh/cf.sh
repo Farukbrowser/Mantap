@@ -1,5 +1,5 @@
 #!/bin/bash
-# SL
+# Faruk Browser
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -25,7 +25,7 @@ fi
 clear
 apt install jq curl -y
 ###DOM#AIN=installer.my.id
-DOMAIN=slxray.cf
+DOMAIN=24clanssh.com
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c6)
 SUB_DOMAIN=${sub}.24clanssh.com
 CF_ID=farukbrowser0@gmail.com
