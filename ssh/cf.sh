@@ -27,7 +27,7 @@ apt install jq curl -y
 ###DOM#AIN=installer.my.id
 DOMAIN=slxray.cf
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c6)
-SUB_DOMAIN=${sub}.slxray.cf
+SUB_DOMAIN=${sub}.24clanssh.com
 CF_ID=farukbrowser0@gmail.com
 CF_KEY=95b295f79baa8c7a3c264ca5cc31b75131c6d
 ##SUB_DOMAIN=${sub}.installer.my.id
