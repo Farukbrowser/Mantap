@@ -24,7 +24,7 @@ exit 0
 fi
 clear
 apt install jq curl -y
-###DOM#AIN=installer.my.id
+###DOM#AIN=24clanssh.com
 DOMAIN=24clanssh.com
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c6)
 SUB_DOMAIN=${sub}.24clanssh.com
