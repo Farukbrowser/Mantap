@@ -290,7 +290,7 @@ reboot
 
 • Websocket SSH TLS         : 443
 
-• Websocket SSH HTTP        : 8880
+• Websocket SSH HTTP        : 2082
 
 • Websocket OpenVPN         : 2086
 
