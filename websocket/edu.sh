@@ -23,7 +23,7 @@ User=root
 CapabilityBoundingSet=CAP_NET_ADMIN CAP_NET_BIND_SERVICE
 AmbientCapabilities=CAP_NET_ADMIN CAP_NET_BIND_SERVICE
 NoNewPrivileges=true
-ExecStart=/usr/bin/python -O /usr/local/bin/ws-nontls 8880
+ExecStart=/usr/bin/python -O /usr/local/bin/ws-nontls 2082
 Restart=on-failure
 
 [Install]
@@ -41,7 +41,7 @@ chmod +x /usr/local/bin/ws-ovpn
 # Installing Service
 cat > /etc/systemd/system/ws-ovpn.service << END
 [Unit]
-Description=Python Proxy Mod By LamVpn
+Description=Python Proxy Mod By Faruk Browser
 Documentation=https://24clanssh.com
 After=network.target nss-lookup.target
 
