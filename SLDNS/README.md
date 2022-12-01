@@ -8,9 +8,7 @@ https://github.com/farukbrowser/SLDNS
 Script Auto Installer SlowDNS
 ```html
 wget -q -O /usr/bin/install-sldns "https://raw.githubusercontent.com/farukbrowser/Mantap/main/SLDNS/install-sldns"
-chmod +x /usr/bin/install-sldns
-&&
-install-sldns
+chmod +x /usr/bin/install-sldns && install-sldns
 ```
 
 # INFO
